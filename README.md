@@ -1,11 +1,11 @@
 
 
-<h1 align="center"><font color="red"><i>Doctor Patient Portal In CorePHP</i></font><br>
+<h1 align="center"><font color="red"><i>Hospital Management Portal In CorePHP</i></font><br>
 
 
 ### :pencil: About Project :
 
-**Doctor Patient Portal is a basic portal which helps those patients who stand in line for hours to take appointments with doctor in clinic or hospitals. This portal help to reduce lines in hospital. a simple registration which is free and with lifetime membership for both doctor and patient. Verified doctors with good reputation make our portal more trusty. We provide free services like their own dashboard to manage appointments, and other things.**
+**Hospital Management is a basic portal which helps those patients who stand in line for hours to take appointments with doctor in clinic or hospitals. This portal help to reduce lines in hospital. a simple registration which is free and with lifetime membership for both doctor and patient. Verified doctors with good reputation make our portal more trusty. We provide free services like their own dashboard to manage appointments, and other things.**
 
 <hr>
 
@@ -44,6 +44,3 @@
  email :admin@test.com <br>
  password: 123456***
 
-**Contributors :**
-
-@AnupamAyank (For functionality testing ).
